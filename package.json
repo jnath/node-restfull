@@ -1,0 +1,19 @@
+{
+  "name": "node-restfull",
+  "version": "0.0.0",
+  "description": "node-restfull =============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jnath/node-restfull.git"
+  },
+  "author": "jonathan faivre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jnath/node-restfull/issues"
+  },
+  "homepage": "https://github.com/jnath/node-restfull"
+}
